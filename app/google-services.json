@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066495463110",
+    "firebase_url": "https://projetmeteo-970bf-default-rtdb.firebaseio.com",
+    "project_id": "projetmeteo-970bf",
+    "storage_bucket": "projetmeteo-970bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066495463110:android:bfccf8c49bffa6996dd1c7",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066495463110-2j58b9asaop7tvd5q2fv4qgrlb5943rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSztociy7YYshpXHs5o62q0-ZCT00JjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066495463110-2j58b9asaop7tvd5q2fv4qgrlb5943rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="error">That didn\'t work!</string>
+    <string name="image_de_la_m_t_o">weather app picture</string>
+    <string name="coucher_de_soleil">%1$S</string>
+    <string name="lever_de_soleil">%1$S</string>
+    <string name="saisir_une_ville">enter a city</string>
+    <string name="quitter">Are you sure you want to quit ?</string>
+    <string name="continuer">Continue</string>
+    <string name="annuler">Cancel</string>
+    <string name="attention">Warning !</string>
+    <string name="autorisation">"Permission denied "</string>
+    <string name="temperature">%1$S °C</string>
+    <string name="jour">%1$S</string>
+    <string name="valider">Validate</string>
+    <string name="entrez_la_ville">Enter the city</string>
+    <string name="entrer_votre_nom">Enter your name</string>
+    <string name="bienvenue">Welcome %1$S</string>
+    <string name="changer_nom">Change name</string>
+    <string name="title_activity_parametre">ParametreActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

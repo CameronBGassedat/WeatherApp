@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".VilleActivity">
+
+    <EditText
+        android:id="@+id/searchVille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/entrez_la_ville"
+        android:textSize="20sp"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/buttonValider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:hint="@string/valider"/>
+
+    <Button
+        android:id="@+id/reload_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textSize="25sp"
+        android:hint="Sauvegarde"/>
+
+</LinearLayout>
